@@ -1,0 +1,10 @@
+.sericeslist{
+    text-align: center;
+    margin-top: 50px;
+}
+.service li{
+    font-size: 1.3rem;
+    margin-top: 25px;
+    font-weight: bolder;
+    cursor: pointer;
+}

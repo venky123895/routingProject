@@ -1,0 +1,38 @@
+.logo{
+    width: 150px;
+    height: 100px;
+    cursor: pointer;
+}
+.nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.sec{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+
+}
+.sec li{
+    font-size: 1.3rem;
+    cursor: pointer;
+    list-style: none;
+}
+.but{
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: blue;
+    color: white;
+    border: none;
+    outline: none;
+    font-size: 1.1rem;
+    cursor: pointer;
+}
+.but:hover{
+    background-color: white;
+    color: blue;
+    transition: 0.4s all;
+    font-weight: bold;
+}

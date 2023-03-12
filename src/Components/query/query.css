@@ -1,0 +1,14 @@
+.list{
+    display: flex;
+    justify-content: flex-end;
+    gap: 50px;
+    padding-top: 25px;
+}
+.list li{
+    font-size: 1.2rem;
+    cursor: pointer;
+    list-style: none;
+    text-decoration: underline;
+    color: blue;
+}
+
